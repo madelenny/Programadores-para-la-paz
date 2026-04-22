@@ -1,4 +1,4 @@
-bash
+
 1.buscar la información en internet 
 2.revisar la fuente de donde proviene
 3.confirmar la noticia en otras paginas confiables
